@@ -12,7 +12,3 @@ AI Engineer in training with a focus on NLP, generative AI, and end-to-end ML pi
 ![](https://nirzak-streak-stats.vercel.app/?user=Noor-Fatima-Khalid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noor-Fatima-Khalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Noor-Fatima-Khalid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
