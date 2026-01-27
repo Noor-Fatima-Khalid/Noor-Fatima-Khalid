@@ -19,7 +19,7 @@ Docker, Git, Entity Framework Core, SignalR, Tailwind CSS, REST APIs
 CI/CD, build validation, Azure DevOps, Terraform
 
 <br>
-### Highlighted Projects
+Highlighted Projects
 <br><br> 
 FYP – An AI hiring assistant that takes interviews, scores the candidates and generates reports. It uses RAG to extract resume context, fine-tuned LLM for question generation, STT/TTS for interaction, and automated answer evaluation to generate structured recruiter reports.
 <br><br> GenAI Reusable Modules – Python modules for generative AI workflows, designed for easy integration in projects.<br><br> 
