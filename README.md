@@ -6,7 +6,7 @@ AI Engineer in training with a focus on NLP, generative AI, and end-to-end ML pi
 1. Programming & Web
 Python, C++, C#, Java, JavaScript, .NET Core, ASP.NET MVC, React.js, Node.js, SQL Server
 
-2. AI / Machine Learning
+2. AI / Machine Learning 
 PyTorch, TensorFlow, LLM Integration, HuggingFace, LangChain, Vector Databases, RAG, Transformers 
 
 3. Generative AI & Systems
