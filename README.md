@@ -1,5 +1,23 @@
 # About Me:
-AI Engineer in training with a focus on NLP, generative AI, and end-to-end ML pipelines. Passionate about building scalable AI solutions and continuously improving coding and problem-solving skills. Currently working on my FYP and reusable AI modules.<br><br>**Tech & Skills**<br>Python | PyTorch | Transformers / NLP | Generative AI | Docker | Pipelines | Git & Version Control | Web Development <br><br>**Highlighted Projects**<br><br>* **FYP** – An AI hiring assistant that takes interviews, scores the candidates and generates reports.<br>* **GenAI Reusable Modules** – Python modules for generative AI workflows, designed for easy integration in projects.<br>* **RaFT Pipeline** – A pipeline for generating relevant context for context aware fine-tuning of LLMs - solves the hallucination and inconsistency problems in fine-tuning.<br>*  **Load Testing & Freelance Projects** – Web and performance projects showcasing full-stack development and problem-solving.<br>
+AI Engineer in training with a focus on NLP, generative AI, and end-to-end ML pipelines. Passionate about building scalable AI solutions and continuously improving coding and problem-solving skills. Currently working on my FYP and reusable AI modules.<br><br>
+
+**Tech & Skills**<br>Python | PyTorch | Transformers / NLP | Generative AI | Docker | Pipelines | Git & Version Control | Web Development <br><br>
+**Tech Stack & Skills**
+
+1. Programming & Web
+Python, C++, C#, Java, JavaScript, .NET Core, ASP.NET MVC, React.js, Node.js, SQL Server
+
+2. AI / Machine Learning
+PyTorch, TensorFlow, LLM Integration, HuggingFace, LangChain, Vector Databases, RAG, Transformers 
+
+3. Generative AI & Systems
+Ollama, Mistral, LoRA Fine-Tuning, Unsloth, WebRTC, Speech-to-Text, Text-to-Speech
+
+4. Tools & Frameworks
+Docker, Git, Entity Framework Core, SignalR, Tailwind CSS, REST APIs
+
+**Highlighted Projects**<br><br>* **FYP** – An AI hiring assistant that takes interviews, scores the candidates and generates reports. It uses RAG to extract resume context, fine-tuned LLM for question generation, STT/TTS for interaction, and automated answer evaluation to generate structured recruiter reports.
+<br>* **GenAI Reusable Modules** – Python modules for generative AI workflows, designed for easy integration in projects.<br>* **RaFT Pipeline** – A pipeline for generating relevant context for context aware fine-tuning of LLMs - solves the hallucination and inconsistency problems in fine-tuning.<br>*  **Load Testing & Freelance Projects** – Web and performance projects showcasing full-stack development and problem-solving.<br>
 
 
 ## Socials:
