@@ -18,8 +18,9 @@ Docker, Git, Entity Framework Core, SignalR, Tailwind CSS, REST APIs
 5. DevOps
 CI/CD, build validation, Azure DevOps, Terraform
 
+<br>
 **Highlighted Projects**<br><br>* **FYP** – An AI hiring assistant that takes interviews, scores the candidates and generates reports. It uses RAG to extract resume context, fine-tuned LLM for question generation, STT/TTS for interaction, and automated answer evaluation to generate structured recruiter reports.
-<br>* **GenAI Reusable Modules** – Python modules for generative AI workflows, designed for easy integration in projects.<br>* **RaFT Pipeline** – A pipeline for generating relevant context for context aware fine-tuning of LLMs - solves the hallucination and inconsistency problems in fine-tuning.<br>*  **Load Testing & Freelance Projects** – Web and performance projects showcasing full-stack development and problem-solving.<br>
+<br><br> **GenAI Reusable Modules** – Python modules for generative AI workflows, designed for easy integration in projects.<br><br> **RaFT Pipeline** – A pipeline for generating relevant context for context aware fine-tuning of LLMs - solves the hallucination and inconsistency problems in fine-tuning.<br><br>  **Load Testing & Freelance Projects** – Web and performance projects showcasing full-stack development and problem-solving.<br>
 
 
 ## Socials:
