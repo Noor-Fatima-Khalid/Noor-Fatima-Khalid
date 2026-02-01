@@ -3,19 +3,19 @@ AI Engineer in training with a focus on NLP, generative AI, and end-to-end ML pi
 
 **Tech Stack & Skills**
 
-1. Programming & Web
+1. Programming & Web:<br>
 Python, C++, C#, Java, JavaScript, .NET Core, ASP.NET MVC, React.js, Node.js, SQL Server
 
-2. AI / Machine Learning 
+2. AI / Machine Learning:<br>
 PyTorch, TensorFlow, LLM Integration, HuggingFace, LangChain, Vector Databases, RAG, Transformers 
 
-3. Generative AI & Systems
+3. Generative AI & Systems:<br>
 Ollama, Mistral, LoRA Fine-Tuning, Unsloth, WebRTC, Speech-to-Text, Text-to-Speech
 
-4. Tools & Frameworks
+4. Tools & Frameworks:<br>
 Docker, Git, Entity Framework Core, SignalR, Tailwind CSS, REST APIs
 
-5. DevOps
+5. DevOps:<br>
 CI/CD, build validation, Azure DevOps, Terraform
 
 <br>
